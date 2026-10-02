@@ -55,24 +55,10 @@ I am a **Data Analyst & Business Intelligence Specialist** with a strong backgro
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Abdallah-Elsayed-1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Elsayed-1&theme=dark&hide_border=true&layout=compact" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/Abdallah-Elsayed-1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elsayed-1&show_icons=true&theme=dark&hide_border=true" alt="Abdallah's GitHub Stats" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" /> LinkedIn](https://www.linkedin.com/in/abdallah-elsayed-d1) &nbsp;|&nbsp; 
-✉️️ [Email](mailto:abdallahhelsayedd@gmail.com) &nbsp;|&nbsp; 
+✉ [Email](mailto:abdallahhelsayedd@gmail.com) &nbsp;|&nbsp; 
 🐙 [GitHub](https://github.com/Abdallah-Elsayed-1)
 
 ---
