@@ -41,9 +41,9 @@
 
 <br />
 
-<!-- Reliable High-Quality Data Banner under About Me -->
+<!-- Minimal & Clean Animated Data Separator -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Data Analytics Visualization" style="border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" alt="Data Analytics Divider" />
 </div>
 
 <br />
@@ -140,14 +140,8 @@
 
 <br />
 
-<!-- Animated Data Visualization GIF Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Data Analytics Line" />
-</div>
-
-<br />
-
 <!-- Footer -->
 <div align="center">
+  <hr width="80%" />
   <p>⚡ <i>"Data is the new oil, but analytics is the refinery."</i></p>
 </div>
