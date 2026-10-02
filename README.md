@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1>👋 أهلاً بك، أنا عبد الله السيد | Abdallah Elsayed</h1>
+  <h1>👋 Hi, I'm Abdallah Elsayed</h1>
   <h3>📊 Data Analyst & Business Intelligence Specialist</h3>
 
   <p align="center">
-    <b>خريج تجارة إدارة أعمال | شغوف بتحويل البيانات الخام إلى رؤى استراتيجية وقرارات تخدم الأعمال</b>
+    <b>Business Administration Graduate | Passionate about transforming raw data into actionable strategic insights</b>
   </p>
 
   <!-- Social Links / Badges -->
@@ -25,20 +25,20 @@
 </div>
 
 <!-- About Me Section -->
-<h2>📌 نبذة عني (About Me)</h2>
+<h2>📌 About Me</h2>
 
 <ul>
-  <li>🎓 <b>الخلفية الأكاديمية:</b> بكالوريوس تجارة - قسم إدارة أعمال (جامعة الزقازيق).</li>
-  <li>💼 <b>الخبرة العملية:</b> خلفية ميدانية في إشراف ومتابعة عمليات الإنتاج والمخازن، مما يمنحني فهماً عميقاً لدورة حياة البيانات في بيئة العمل الفعلي (Real-world Operations).</li>
-  <li>🚀 <b>التخصص:</b> معالجة البيانات وبناء لوحات المراقبة التفاعلية (Interactive Dashboards) باستخدام تقنيات BI والتحليل الإحصائي.</li>
-  <li>💡 <b>منهجية العمل:</b> تطبيق أساليب التحليل وحل المشكلات الهيكلية مثل <code>DMAIC</code>, <code>PDCA</code>, <code>Root Cause Analysis (RCA)</code>.</li>
-  <li>🎯 <b>الهدف:</b> تقديم حلول بيانات ذات قيمة مضافة عالية تدعم اتخاذ القرار وتزيد من كفاءة التشغيل.</li>
+  <li>🎓 <b>Academic Background:</b> Bachelor's degree in Business Administration from Zagazig University.</li>
+  <li>💼 <b>Hands-on Experience:</b> Strong practical background in production supervision and inventory dispatch, giving me deep domain understanding of real-world operational workflows and data lifecycles.</li>
+  <li>🚀 <b>Core Focus:</b> End-to-end data processing, interactive dashboard development, and advanced analytics using BI frameworks.</li>
+  <li>💡 <b>Problem-Solving Mindset:</b> Proficient in analytical problem-solving methodologies including <code>DMAIC</code>, <code>PDCA</code>, and <code>Root Cause Analysis (RCA)</code>.</li>
+  <li>🎯 <b>Goal:</b> Delivering high-value data analytics solutions that empower data-driven decision-making and enhance operational efficiency.</li>
 </ul>
 
 <br />
 
 <!-- Tech Stack & Skills -->
-<h2>🛠️ المهارات التقنية والأدوات (Tech Stack)</h2>
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Spreadsheets & Documentation</b></td>
+    <td><b>Spreadsheets & Reporting</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
@@ -76,32 +76,32 @@
 <br />
 
 <!-- Featured Projects -->
-<h2>📂 أبرز المشاريع (Featured Projects)</h2>
+<h2>📂 Featured Projects</h2>
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <h3>🚗 BMW Sales Analysis Dashboard</h3>
-        <p>مشروع تحليل مبيعات شركة BMW شاملاً إعداد نماذج البيانات ومعادلات DAX مع تصميم تفاعلي مميز بنظام Dark Mode.</p>
-        <p><b>الأدوات:</b> Power BI, Power Query, DAX</p>
+        <p>End-to-end sales analysis dashboard using custom data modeling, advanced DAX measures, and an intuitive Dark Mode UI/UX layout.</p>
+        <p><b>Tech Stack:</b> Power BI, Power Query, DAX</p>
       </td>
       <td width="50%" valign="top">
         <h3>☕ Coffee Shop Sales Analysis</h3>
-        <p>تحليل كامل لمبيعات سلسلة مقاهي، يتضمن نمذجة الوقت وحساب المؤشرات الرئيسية لقياس الأداء المالي والفرص المتاحة.</p>
-        <p><b>الأدوات:</b> Power BI, DAX, Data Modeling</p>
+        <p>Comprehensive performance analysis for coffee chain sales, featuring custom time-intelligence modeling and key revenue metrics.</p>
+        <p><b>Tech Stack:</b> Power BI, DAX, Data Modeling</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <h3>📊 E-Commerce Performance Analysis</h3>
-        <p>معالجة وتحليل بيانات منصة تجارة إلكترونية ودراسة سلوك العملاء والإيرادات الأسبوعية والشهرية.</p>
-        <p><b>الأدوات:</b> Excel, Power Query</p>
+        <p>Data cleaning, ETL processing, and revenue trend analysis evaluating customer purchase behavior across weekly and monthly horizons.</p>
+        <p><b>Tech Stack:</b> Excel, Power Query</p>
       </td>
       <td width="50%" valign="top">
         <h3>📱 Instagram Engagement Analytics</h3>
-        <p>استكشاف وتحليل بيانات التفاعل لمسابقة وحساب إنستجرام لمعرفة أفضل أوقات النشر ومعدلات التفاعل.</p>
-        <p><b>الأدوات:</b> Python, Pandas, Jupyter Notebook</p>
+        <p>Exploratory data analysis on campaign and engagement metrics to evaluate optimal posting times and audience interaction dynamics.</p>
+        <p><b>Tech Stack:</b> Python, Pandas, Jupyter Notebook</p>
       </td>
     </tr>
   </table>
@@ -110,7 +110,7 @@
 <br />
 
 <!-- GitHub Stats -->
-<h2>📊 إحصائيات GitHub</h2>
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elsayed-1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
