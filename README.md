@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1>👋 Hi, I'm Abdallah Elsayed</h1>
-  <h3>📊 Data Analyst & Business Intelligence Specialist</h3>
+  <h1>Hi, I'm Abdallah Elsayed 👋</h1>
+  <h3>Data Analyst & Business Intelligence Specialist</h3>
 
   <p align="center">
     <b>Business Administration Graduate | Passionate about transforming raw data into actionable strategic insights</b>
@@ -46,7 +46,7 @@
     <td>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=analytics&logoColor=white" alt="DAX" />
-      <img src="https://img.shields.io/badge/Figma_(Dashboard_UI/UX)-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
     </td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@
   <tr>
     <td><b>Databases & Querying</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
@@ -105,16 +105,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elsayed-1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Elsayed-1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
