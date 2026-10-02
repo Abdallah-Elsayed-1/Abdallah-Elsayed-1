@@ -71,35 +71,17 @@ A detailed sample of my recent analytical work:
 
 - 💼 **LinkedIn:** [abdallah-elsayed-d1](https://www.linkedin.com/in/abdallah-elsayed-d1)
 - 🐙 **GitHub:** [@Abdallah-Elsayed-1](https://github.com/Abdallah-Elsayed-1)
-- 📧 **Gmail:** [abdallahhelsayedd@gmail.com](mailto:abdallahhelsayedd@gmail.com)
-- 📱 **Phone / WhatsApp:** [+20 101 480 9916](tel:01014809916)
+- 📧 **Gmail:** [abdallahhelsayedd@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com)
+- 📱 **WhatsApp:** [+20 101 480 9916](https://wa.me/201014809916)
 
 ---
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white (LinkedIn icon)
-[4.2]: https://img.shields.io/badge/-Gmail-2bbc8a?style=flat&logo=gmail&logoColor=white (Gmail icon without padding)
-
+[4.2]: https://img.shields.io/badge/-Gmail-2bbc8a?style=flat&logo=gmail&logoColor=white (Gmail icon)
 
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/Abdallah-Elsayed-1
 [3]: https://www.linkedin.com/in/abdallah-elsayed-d1
-[4]: mailto:abdallahhelsayedd@gmail.com
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+[4]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com
