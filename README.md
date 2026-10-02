@@ -5,7 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Abdallah Elsayed Helal and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights. You can find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
+My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights. You can find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
 
 ---
 
