@@ -31,22 +31,22 @@
   <li>🎓 <b>Academic Background:</b> Bachelor's degree in Business Administration from Zagazig University.</li>
   <li>💼 <b>Hands-on Experience:</b> Strong practical background in production supervision and inventory dispatch, giving me deep domain understanding of real-world operational workflows and data lifecycles.</li>
   <li>🚀 <b>Core Focus:</b> End-to-end data processing, interactive dashboard development, and advanced analytics using BI frameworks.</li>
-  <li>💡 <b>Problem-Solving Mindset:</b> Proficient in analytical problem-solving methodologies including <code>DMAIC</code>, <code>PDCA</code>, and <code>Root Cause Analysis (RCA)</code>.</li>
   <li>🎯 <b>Goal:</b> Delivering high-value data analytics solutions that empower data-driven decision-making and enhance operational efficiency.</li>
 </ul>
 
 <br />
 
-<!-- Tech Stack & Skills -->
-<h2>🛠️ Tech Stack & Tools</h2>
+<!-- Tech Stack & Deep Technical Breakdown -->
+<h2>🛠️ Technical Skills & Tools</h2>
 
 <table>
   <tr>
-    <td width="30%"><b>Data Visualization & BI</b></td>
+    <td width="30%"><b>Power BI & Data Viz</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=analytics&logoColor=white" alt="DAX" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <br />
+      <i>Interactive Dashboards, Advanced DAX Measures, Custom Data Modeling, UI/UX Report Layouts, Time Intelligence</i>
     </td>
   </tr>
   <tr>
@@ -55,6 +55,8 @@
       <img src="https://img.shields.io/badge/Power_Query-008080?style=flat-square&logo=powerquery&logoColor=white" alt="Power Query" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <br />
+      <i>Data Cleaning, Data Transformation, Automated ETL Pipelines, Exploratory Data Analysis (EDA), Jupyter Notebooks</i>
     </td>
   </tr>
   <tr>
@@ -62,6 +64,8 @@
     <td>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <br />
+      <i>Complex SQL Queries, Data Aggregation, Joins, Grouping, Filtering, Relational Database Modeling</i>
     </td>
   </tr>
   <tr>
@@ -69,9 +73,24 @@
     <td>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+      <br />
+      <i>Pivot Tables, Advanced Formulas, Data Validation, Financial & Sales Modeling, Automated Formatting</i>
     </td>
   </tr>
 </table>
+
+<br />
+
+<!-- Analytical Mindset & Soft Skills -->
+<h2>🧠 Analytical Mindset & Core Competencies</h2>
+
+<ul>
+  <li>💡 <b>Problem-Solving Frameworks:</b> Proficient in <code>DMAIC</code> (Define, Measure, Analyze, Improve, Control), <code>PDCA</code> (Plan-Do-Check-Act), and <code>Root Cause Analysis (RCA)</code>.</li>
+  <li>🎯 <b>Business Acumen:</b> Bridging the gap between raw data metrics and business objectives (Revenue Analysis, Cost Efficiency, Inventory Control).</li>
+  <li>🔍 <b>Analytical Thinking:</b> Translating complex unstructured business requirements into structured datasets and visual insights.</li>
+  <li>🗣️ <b>Data Storytelling & Communication:</b> Presenting findings clearly to technical and non-technical stakeholders to drive actionable decisions.</li>
+  <li>⚡ <b>Process Optimization:</b> Continuous improvement mindset focused on efficiency, accuracy, and process automation.</li>
+</ul>
 
 <br />
 
