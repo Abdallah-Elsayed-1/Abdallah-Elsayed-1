@@ -41,10 +41,9 @@
 
 <br />
 
-<!-- Big Animated Data Banner under About Me -->
+<!-- Reliable High-Quality Data Banner under About Me -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-database-open.svg" width="0" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzF0dW91MThsOHBndDV1OGYwcTNkcGZyZmJ0dXFvZmRkOHBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW828bk/giphy.gif" width="100%" alt="Data Analytics Visualization Banner" style="border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Data Analytics Visualization" style="border-radius: 10px;" />
 </div>
 
 <br />
