@@ -30,10 +30,7 @@
 </div>
 
 <!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzF0dW91MThsOHBndDV1OGYwcTNkcGZyZmJ0dXFvZmRkOHBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW828bk/giphy.gif" width="30" align="center" /> 
-  About Me
-</h2>
+<h2>📌 About Me</h2>
 
 <ul>
   <li>🎓 <b>Academic Background:</b> Bachelor's degree in Business Administration from Zagazig University.</li>
@@ -44,11 +41,16 @@
 
 <br />
 
+<!-- Big Animated Data Banner under About Me -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-database-open.svg" width="0" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzF0dW91MThsOHBndDV1OGYwcTNkcGZyZmJ0dXFvZmRkOHBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW828bk/giphy.gif" width="100%" alt="Data Analytics Visualization Banner" style="border-radius: 8px;" />
+</div>
+
+<br />
+
 <!-- Tech Stack & Deep Technical Breakdown -->
-<h2>
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93854/giphy.gif" width="30" align="center" /> 
-  Technical Skills & Tools
-</h2>
+<h2>🛠️ Technical Skills & Tools</h2>
 
 <table width="100%">
   <tr>
@@ -93,10 +95,7 @@
 <br />
 
 <!-- Analytical Mindset & Soft Skills -->
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9iMzI1amMza2MzcHRmOTc5MnE2aWg2cnljOHltY3BldWNvbmRkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="30" align="center" /> 
-  Analytical Mindset & Core Competencies
-</h2>
+<h2>🧠 Analytical Mindset & Core Competencies</h2>
 
 <ul>
   <li>💡 <b>Problem-Solving Frameworks:</b> Proficient in <code>DMAIC</code> (Define, Measure, Analyze, Improve, Control), <code>PDCA</code> (Plan-Do-Check-Act), and <code>Root Cause Analysis (RCA)</code>.</li>
@@ -109,10 +108,7 @@
 <br />
 
 <!-- Featured Projects -->
-<h2>
-  <img src="https://media.giphy.com/media/3oKIPa242B3ZX5vTOo/giphy.gif" width="30" align="center" /> 
-  Featured Projects
-</h2>
+<h2>📂 Featured Projects</h2>
 
 <div align="center">
   <table width="100%">
