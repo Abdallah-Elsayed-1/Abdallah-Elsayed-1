@@ -49,29 +49,45 @@ My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Speci
 A detailed portfolio of my production data analytics & business intelligence solutions:
 
 <!-- PROJECT-LIST:START -->
-- ☕ **Coffee Shop Sales Performance & Hourly Flow (Power BI)**
-  - Engineered an end-to-end retail intelligence dashboard tracking $236.5K in revenue and 51K transactions.
-  - Built custom M-code Calendar tables and advanced DAX measures to diagnose peak morning foot-traffic windows (8:00 AM - 10:00 AM).
+### ☕ [Coffee Shop Sales Performance & Hourly Flow](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/DAX-Data_Modeling-2bbc8a?style=flat-square) ![](https://img.shields.io/badge/Power_Query-ETL-0078D4?style=flat-square)
+- Engineered an end-to-end retail intelligence dashboard tracking **$236.5K** in revenue across **51K** transactions.
+- Developed custom M-code Calendar tables and advanced DAX measures to diagnose peak morning rush intervals (8:00 AM – 10:00 AM).
 
-- 📈 **Enterprise Multi-Year Sales & Customer BI (Power BI)**
-  - Developed a dimensional Star Schema model analyzing 2012–2014 commercial performance across European hubs.
-  - Implemented customer profitability matrices and dynamic country slicers to isolate top-tier accounts.
+---
 
-- 🚢 **Global Sales Operations & Classic Auto Logistics (Power BI)**
-  - Designed an international supply chain and order fulfillment monitor tracking $10.03M across 300+ shipments.
-  - Integrated Treemaps and fulfillment status diagnostics maintaining a 92.7% on-time delivery benchmark.
+### 📈 [Enterprise Multi-Year Sales & Customer BI](https://github.com/Abdallah-Elsayed-1/Sales-Performance-Analysis)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/Star_Schema-Relational-blue?style=flat-square) ![](https://img.shields.io/badge/Customer_LTV-Analytics-2bbc8a?style=flat-square)
+- Built a multi-year Star Schema relational model evaluating 2012–2014 commercial performance across European markets.
+- Implemented customer profitability matrices and dynamic regional slicers to isolate key high-value client accounts.
 
-- 📊 **Retail Executive Performance & YOY Growth (Microsoft Excel & Power Pivot)**
-  - Formulated a corporate Excel analytics engine utilizing Power Pivot data modeling and advanced DAX aggregations.
-  - Computed Year-over-Year (YOY) sales variances and regional profit distributions without external BI tools.
+---
 
-- 💻 **Retail Sales & Product ROI Waterfall Analytics (Power BI)**
-  - Designed a high-contrast dark-mode diagnostic system analyzing $7.04M in gross sales and $1.24M in net margin.
-  - Leveraged Waterfall margin charts and Power Query Advanced Editor M-scripts to pinpoint low-ROI electronics categories.
+### 🚢 [Global Sales Operations & Classic Auto Logistics](https://github.com/Abdallah-Elsayed-1/BMW-Sales-Analysis-Dashboard)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/Supply_Chain-Operations-orange?style=flat-square) ![](https://img.shields.io/badge/Fulfillment-SLA-success?style=flat-square)
+- Designed an international supply chain and order fulfillment monitor tracking **$10.03M** across 300+ shipments.
+- Integrated Treemaps and fulfillment status diagnostics sustaining a **92.7%** on-time delivery benchmark.
 
-- 📸 **Instagram Reach & Audience Engagement Analytics (Python & EDA)**
-  - Conducted end-to-end statistical data analysis on Instagram post metrics using **Pandas**, **NumPy**, and **Seaborn**.
-  - Built linear regression models to evaluate the viral acquisition funnel (**Shares → Profile Visits → Follows**) and post reach channels.
+---
+
+### 📊 [Retail Executive Performance & YOY Growth](https://github.com/Abdallah-Elsayed-1/Retail-Sales-Excel-Dashboard)
+![](https://img.shields.io/badge/Excel-Power_Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![](https://img.shields.io/badge/YOY_Growth-Variance_Analysis-2bbc8a?style=flat-square) ![](https://img.shields.io/badge/Executive_KPIs-Reporting-blue?style=flat-square)
+- Formulated an enterprise Excel analytics engine utilizing Power Pivot data modeling and advanced DAX aggregations.
+- Computed Year-over-Year (YOY) sales variances and regional profit distributions for leadership reporting.
+
+---
+
+### 💻 [Retail Sales & Product ROI Waterfall Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-Product-ROI-Analysis)
+![](https://img.shields.io/badge/Power_BI-Dark_UI-black?style=flat-square&logo=powerbi) ![](https://img.shields.io/badge/Waterfall-Diagnostic-red?style=flat-square) ![](https://img.shields.io/badge/M--Code-Advanced_Editor-blue?style=flat-square)
+- Designed a high-contrast dark-mode diagnostic system analyzing **$7.04M** in gross sales and **$1.24M** in net margin.
+- Leveraged Waterfall profit charts and Power Query Advanced Editor M-scripts to pinpoint low-ROI hardware categories.
+
+---
+
+### 📸 [Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)
+![](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Pandas-Data_Wrangling-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Seaborn-Regression_Plots-4c72b0?style=flat-square)
+- Conducted end-to-end statistical data analysis on Instagram post metrics using **Pandas**, **NumPy**, and **Seaborn**.
+- Built linear regression models to evaluate the viral acquisition funnel (**Shares → Profile Visits → Follows**) and post reach channels[cite: 7].
 <!-- PROJECT-LIST:END -->
 
 ---
