@@ -46,21 +46,32 @@ My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Speci
 
 ## &#x270d; Featured Projects
 
-A detailed sample of my recent analytical work:
+A detailed portfolio of my production data analytics & business intelligence solutions:
 
 <!-- PROJECT-LIST:START -->
-- ☕ **Coffee Shop Sales Analysis**
-  - Developed an end-to-end Power BI sales analytics report.
-  - Implemented custom time-intelligence modeling and advanced DAX measures to evaluate hourly and monthly sales trends.
+- ☕ **Coffee Shop Sales Performance & Hourly Flow (Power BI)**
+  - Engineered an end-to-end retail intelligence dashboard tracking $236.5K in revenue and 51K transactions.
+  - Built custom M-code Calendar tables and advanced DAX measures to diagnose peak morning foot-traffic windows (8:00 AM - 10:00 AM).
 
-- 🚗 **BMW Sales Analysis Dashboard**
-  - Built an interactive presentation dashboard analyzing vehicle sales metrics and customer demographics for strategic presentation.
+- 📈 **Enterprise Multi-Year Sales & Customer BI (Power BI)**
+  - Developed a dimensional Star Schema model analyzing 2012–2014 commercial performance across European hubs.
+  - Implemented customer profitability matrices and dynamic country slicers to isolate top-tier accounts.
 
-- 🛍️ **E-Commerce Performance Dashboard**
-  - Performed complete data cleaning, ETL processes, and financial KPI tracking using Microsoft Excel and Power Query.
+- 🚢 **Global Sales Operations & Classic Auto Logistics (Power BI)**
+  - Designed an international supply chain and order fulfillment monitor tracking $10.03M across 300+ shipments.
+  - Integrated Treemaps and fulfillment status diagnostics maintaining a 92.7% on-time delivery benchmark.
 
-- 📱 **Instagram Account Analytics**
-  - Analyzed account performance, reach, and audience engagement metrics using Python, Pandas, and visualization libraries on Jupyter Notebook.
+- 📊 **Retail Executive Performance & YOY Growth (Microsoft Excel & Power Pivot)**
+  - Formulated a corporate Excel analytics engine utilizing Power Pivot data modeling and advanced DAX aggregations.
+  - Computed Year-over-Year (YOY) sales variances and regional profit distributions without external BI tools.
+
+- 💻 **Retail Sales & Product ROI Waterfall Analytics (Power BI)**
+  - Designed a high-contrast dark-mode diagnostic system analyzing $7.04M in gross sales and $1.24M in net margin.
+  - Leveraged Waterfall margin charts and Power Query Advanced Editor M-scripts to pinpoint low-ROI electronics categories.
+
+- 📸 **Instagram Reach & Audience Engagement Analytics (Python & EDA)**
+  - Conducted end-to-end statistical data analysis on Instagram post metrics using **Pandas**, **NumPy**, and **Seaborn**.
+  - Built linear regression models to evaluate the viral acquisition funnel (**Shares → Profile Visits → Follows**) and post reach channels.
 <!-- PROJECT-LIST:END -->
 
 ---
