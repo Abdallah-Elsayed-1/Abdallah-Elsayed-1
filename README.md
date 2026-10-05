@@ -65,7 +65,7 @@ A detailed sample of my recent analytical work:
 - 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
   - Built an executive dashboard analyzing retail performance, product profitability, and ROI metrics with diagnostic waterfall visuals.
 
-- 📱 **[Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/Instagram-Reach-Audience-Engagement-Analytics)**
+- 📱 **[-Instagram-Reach-Audience-Engagement-Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
   - Analyzed account performance, reach, and audience engagement metrics using Python, Pandas, and visualization libraries on Jupyter Notebook.
 <!-- PROJECT-LIST:END -->
 
