@@ -5,11 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights.
-
-🌐 **Live Interactive Portfolio:** [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github)
-
-You can also find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
+My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights. You can check my [![Portfolio][5.2]][5], find me on [![LinkedIn][3.2]][3], or reach out via [![Gmail][4.2]][4].
 
 ---
 
@@ -102,8 +98,10 @@ You can also find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
 
 [3.2]: https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white (LinkedIn icon)
 [4.2]: https://img.shields.io/badge/-Gmail-2bbc8a?style=flat&logo=gmail&logoColor=white (Gmail icon)
+[5.2]: https://img.shields.io/badge/-Portfolio-2bbc8a?style=flat&logo=googlechrome&logoColor=white (Portfolio icon)
 
 <!-- links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/abdallah-elsayed-d1
 [4]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com
+[5]: https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github
