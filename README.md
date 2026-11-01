@@ -5,7 +5,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights. You can find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
+My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights.
+
+🌐 **Live Interactive Portfolio:** [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github)
+
+You can also find me on [![LinkedIn][3.2]][3], or via [![Gmail][4.2]][4].
 
 ---
 
@@ -44,29 +48,40 @@ My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Speci
 
 ---
 
-## &#x270d; Featured Projects
-
-A detailed sample of my recent analytical work:
+## ✍️ Featured Projects
 
 <!-- PROJECT-LIST:START -->
-- ☕ **[Coffee Shop Sales Analysis](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)**
-  - Developed an end-to-end Power BI sales analytics report.
-  - Implemented custom time-intelligence modeling and advanced DAX measures to evaluate hourly and monthly sales trends.
+1. 🌐 **[Global Intelligence & Macroeconomic BI](https://github.com/Abdallah-Elsayed-1/global-intelligence-macroeconomic-bi)**
+   - Built an executive dark-themed intelligence suite tracking global economic indicators, demographics, trade flows, and infrastructure.
+   - Architected multi-fact Star Schema data models and dynamic DAX metrics for multi-country comparative analysis.
 
-- 📈 **[Global Sales Power BI Dashboard](https://github.com/Abdallah-Elsayed-1/Global-Sales-PowerBI-Dashboard)**
-  - Built an interactive presentation dashboard analyzing vehicle sales metrics and customer demographics for strategic presentation.
+2. ☕ **[Retail Coffee Sales BI Suite](https://github.com/Abdallah-Elsayed-1/retail-coffee-sales-bi)**
+   - Developed an end-to-end commercial analytics platform evaluating multi-branch coffee chain sales and revenue drivers.
+   - Built automated M-Code ETL pipelines, Star Schema modeling, and executive KPI diagnostics for unit economics.
 
-- 🚢 **[Global Sales Operations Analytics](https://github.com/Abdallah-Elsayed-1/Global-Sales-Operations-Analytics)**
-  - Designed an international supply chain and order fulfillment monitor tracking distribution performance across global markets.
+3. 🚢 **[Global Sales Operations Analytics](https://github.com/Abdallah-Elsayed-1/Global-Sales-Operations-Analytics)**
+   - Designed an interactive operational monitoring dashboard evaluating international sales streams, order fulfillment, and logistics pipelines.
+   - Analyzed hourly time-distribution patterns and category performance across geographic regions.
 
-- 📊 **[Excel Power Pivot Financial Modeling](https://github.com/Abdallah-Elsayed-1/Excel-Power-Pivot-Financial-Modeling)**
-  - Performed complete data cleaning, ETL processes, and financial KPI tracking using Microsoft Excel and Power Query.
+4. 📱 **[Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
+   - Conducted an end-to-end Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, and Seaborn).
+   - Evaluated impression source funnels, content engagement drivers, and conversion correlation dynamics.
 
-- 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
-  - Built an executive dashboard analyzing retail performance, product profitability, and ROI metrics with diagnostic waterfall visuals.
+5. 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
+   - Developed an executive dashboard analyzing retail profitability, landed costs, and ROI margins.
+   - Integrated custom page navigation, diagnostic waterfall visuals, and automated M-Code ETL transformations.
 
-- 📱 **[-Instagram-Reach-Audience-Engagement-Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
-  - Analyzed account performance, reach, and audience engagement metrics using Python, Pandas, and visualization libraries on Jupyter Notebook.
+6. 📊 **[Coffee Shop Sales & Hourly Flow Analysis](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)**
+   - Built a comprehensive sales performance monitor tracking peak transaction hours, daily volume, and basket size.
+   - Implemented custom date/time dimension modeling and Time Intelligence DAX measures for customer flow optimization.
+
+7. 📈 **[Excel Power Pivot Financial Modeling](https://github.com/Abdallah-Elsayed-1/Excel-Power-Pivot-Financial-Modeling)**
+   - Architected a complete corporate financial analysis model using Power Query, Power Pivot, and Star Schema design.
+   - Configured custom DAX financial measures to evaluate YoY revenue variance and margin performance.
+
+8. 🌍 **[Enterprise Global Sales Power BI Dashboard](https://github.com/Abdallah-Elsayed-1/Global-Sales-PowerBI-Dashboard)**
+   - Constructed a multi-year sales performance monitor (2012–2014) evaluating profit margins and customer segments.
+   - Implemented cross-regional drill-downs and dynamic slicer synchronization for executive review.
 <!-- PROJECT-LIST:END -->
 
 ---
@@ -75,6 +90,7 @@ A detailed sample of my recent analytical work:
 
 > *Feel free to reach out for collaborations, data analytics discussions, or professional opportunities.*
 
+- 🌐 **Portfolio:** [abdallah-elsayed-1.github.io](https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github)
 - 💼 **LinkedIn:** [abdallah-elsayed-d1](https://www.linkedin.com/in/abdallah-elsayed-d1)
 - 🐙 **GitHub:** [@Abdallah-Elsayed-1](https://github.com/Abdallah-Elsayed-1)
 - 📧 **Gmail:** [abdallahhelsayedd@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com)
