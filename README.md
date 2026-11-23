@@ -47,37 +47,45 @@ My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Speci
 ## ✍️ Featured Projects
 
 <!-- PROJECT-LIST:START -->
-1. 🌐 **[Global Intelligence & Macroeconomic BI](https://github.com/Abdallah-Elsayed-1/global-intelligence-macroeconomic-bi)**
-   - Built an executive dark-themed intelligence suite tracking global economic indicators, demographics, trade flows, and infrastructure.
-   - Architected multi-fact Star Schema data models and dynamic DAX metrics for multi-country comparative analysis.
+1. 🚀 **[Enterprise Retail & Supply Chain Intelligence Portal](https://github.com/Abdallah-Elsayed-1/Enterprise-Retail-Supply-Chain-Intelligence-Portal)**
+  - Engineered an end-to-end Power BI executive decision system analyzing $2.26M in gross revenue across 4,922 orders, integrating normalized Star Schema modeling, Power Query M-Code ETL, and custom GPU-accelerated HTML/CSS/SVG visuals.
+  - Unified commercial growth tracking (+50.4% trajectory), SLA compliance diagnostics (67.5% on-time rate, $697.9K revenue at risk), and repeat customer cohort retention (81.9% loyalty share).
 
-2. ☕ **[Retail Coffee Sales BI Suite](https://github.com/Abdallah-Elsayed-1/retail-coffee-sales-bi)**
-   - Developed an end-to-end commercial analytics platform evaluating multi-branch coffee chain sales and revenue drivers.
-   - Built automated M-Code ETL pipelines, Star Schema modeling, and executive KPI diagnostics for unit economics.
+2. 🚚 **[Global Supply Chain & Logistics Analytics](https://github.com/Abdallah-Elsayed-1/Global-Supply-Chain-Logistics-EDA)**
+  - Executed end-to-end Python data cleaning, feature engineering, and exploratory root-cause analysis across 180,519 global logistics transactions ($36.78M revenue).
+  - Engineered SLA delivery variance metrics (`shipping_delay_days`), diagnosing a 54.83% late-delivery bottleneck and isolating cumulative margin losses to 3 specific SKUs.
 
-3. 🚢 **[Global Sales Operations Analytics](https://github.com/Abdallah-Elsayed-1/Global-Sales-Operations-Analytics)**
-   - Designed an interactive operational monitoring dashboard evaluating international sales streams, order fulfillment, and logistics pipelines.
-   - Analyzed hourly time-distribution patterns and category performance across geographic regions.
+3. 🌐 **[Global Intelligence & Macroeconomic BI](https://github.com/Abdallah-Elsayed-1/global-intelligence-macroeconomic-bi)**
+  - Built an executive dark-themed intelligence suite tracking global economic indicators, demographics, trade flows, and infrastructure.
+  - Architected multi-fact Star Schema data models and dynamic DAX metrics for multi-country comparative analysis.
 
-4. 📱 **[Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
-   - Conducted an end-to-end Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, and Seaborn).
-   - Evaluated impression source funnels, content engagement drivers, and conversion correlation dynamics.
+4. ☕ **[Retail Coffee Sales BI Suite](https://github.com/Abdallah-Elsayed-1/retail-coffee-sales-bi)**
+  - Developed an end-to-end commercial analytics platform evaluating multi-branch coffee chain sales and revenue drivers.
+  - Built automated M-Code ETL pipelines, Star Schema modeling, and executive KPI diagnostics for unit economics.
 
-5. 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
-   - Developed an executive dashboard analyzing retail profitability, landed costs, and ROI margins.
-   - Integrated custom page navigation, diagnostic waterfall visuals, and automated M-Code ETL transformations.
+5. 🚢 **[Global Sales Operations Analytics](https://github.com/Abdallah-Elsayed-1/Global-Sales-Operations-Analytics)**
+  - Designed an interactive operational monitoring dashboard evaluating international sales streams, order fulfillment, and logistics pipelines.
+  - Analyzed hourly time-distribution patterns and category performance across geographic regions.
 
-6. 📊 **[Coffee Shop Sales & Hourly Flow Analysis](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)**
-   - Built a comprehensive sales performance monitor tracking peak transaction hours, daily volume, and basket size.
-   - Implemented custom date/time dimension modeling and Time Intelligence DAX measures for customer flow optimization.
+6. 📱 **[Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
+  - Conducted an end-to-end Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, and Seaborn).
+  - Evaluated impression source funnels, content engagement drivers, and conversion correlation dynamics.
 
-7. 📈 **[Excel Power Pivot Financial Modeling](https://github.com/Abdallah-Elsayed-1/Excel-Power-Pivot-Financial-Modeling)**
-   - Architected a complete corporate financial analysis model using Power Query, Power Pivot, and Star Schema design.
-   - Configured custom DAX financial measures to evaluate YoY revenue variance and margin performance.
+7. 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
+  - Developed an executive dashboard analyzing retail profitability, landed costs, and ROI margins.
+  - Integrated custom page navigation, diagnostic waterfall visuals, and automated M-Code ETL transformations.
 
-8. 🌍 **[Enterprise Global Sales Power BI Dashboard](https://github.com/Abdallah-Elsayed-1/Global-Sales-PowerBI-Dashboard)**
-   - Constructed a multi-year sales performance monitor (2012–2014) evaluating profit margins and customer segments.
-   - Implemented cross-regional drill-downs and dynamic slicer synchronization for executive review.
+8. 📊 **[Coffee Shop Sales & Hourly Flow Analysis](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)**
+  - Built a comprehensive sales performance monitor tracking peak transaction hours, daily volume, and basket size.
+  - Implemented custom date/time dimension modeling and Time Intelligence DAX measures for customer flow optimization.
+
+9. 📈 **[Excel Power Pivot Financial Modeling](https://github.com/Abdallah-Elsayed-1/Excel-Power-Pivot-Financial-Modeling)**
+  - Architected a complete corporate financial analysis model using Power Query, Power Pivot, and Star Schema design.
+  - Configured custom DAX financial measures to evaluate YoY revenue variance and margin performance.
+
+10. 🌍 **[Enterprise Global Sales Power BI Dashboard](https://github.com/Abdallah-Elsayed-1/Global-Sales-PowerBI-Dashboard)**
+  - Constructed a multi-year sales performance monitor (2012–2014) evaluating profit margins and customer segments.
+  - Implemented cross-regional drill-downs and dynamic slicer synchronization for executive review.
 <!-- PROJECT-LIST:END -->
 
 ---
